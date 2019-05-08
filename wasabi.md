@@ -47,7 +47,7 @@ You can turn off Tor in the Settings. Note that in this case you are still priva
 
 ### My wallet can't send to Bech32 addresses - what wallets can I use instead? 
 
-Wasabi generates Bech32 addresses only. These addresses start with the characters bc1... Some wallets/exchanges don't yet support this type of address and my give an error message (e.g. "unknown bitcoin address"). The solution is to manage your funds with a wallet which does support Bech32. Of [all the wallets](https://en.bitcoin.it/wiki/Bech32_adoption) that support Bech32, only the following wallets have Coin Control;
+Wasabi generates Bech32 addresses only. These addresses start with the characters bc1... Some wallets/exchanges don't yet support this type of address and might give an error message (e.g. "unknown bitcoin address"). The solution is to manage your funds with a wallet which does support Bech32. Of [all the wallets](https://en.bitcoin.it/wiki/Bech32_adoption) that support Bech32, only the following wallets have Coin Control;
 
 | Platform 						| Recommended 																					| Other										|
 | ---------						| -----------------------------------------------------	|------------------------	|
